@@ -1,0 +1,5 @@
+name: "sinopec_zhejiang_sentiment_monitor"
+title: "中国石化浙江石油负面舆情监控"
+description: "监控中国石化浙江石油在全网的负面舆情，搜新闻和社媒、判负面等级、出预警报告，适合每天或每小时跑一轮。"
+category: "Work and knowledge"
+include_in_prompt: false
